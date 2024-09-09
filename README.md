@@ -8,7 +8,7 @@
   👾 Aqui você encontra tecnologias do futuro como Impressora 3D, Cortadora a laser, aparatos de eletrônica, internet das coisas, robótica, biotecnologia e muito mais...<br />
 
 - 📫 Você pode nos contactar através do e-mail: **casafirjan.fablab@firjan.com.br**<br />
-  😄 Ou através do site: *casafirjan.com.br*<br />
+  😄 Ou através do site: [*casafirjan.com.br*](https://casafirjan.com.br/)<br />
   ⚡ Esperamos você, venha nos visitar!<br />
 
 <!---
